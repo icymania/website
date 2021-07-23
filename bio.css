@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Ruslan+Display&display=swap');
+
+body {
+    margin: 0px;
+
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(danielsworktwelve.jpg);
+    background-size: cover;    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.navigationbar {
+    color:royalblue;
+    font-family: 'Ruslan Display', cursive;
+    width: 100%;
+    height: 15%;
+    background-color:rgb(183, 240, 240.50);
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    border-color: midnightblue;
+    border-width: 5px;
+    border-style: solid;
+
+}
+
+.mycontent {
+    width: 80%;
+    height: 80%;
+    background-color:rgb(94, 192, 187, 0.5);
+    display: flex;
+    justify-content: space-around;
+    align-items:center
+}
+
+.footer {
+        width: 100%;
+        height: 12%;
+        background-color:rgb(183, 240, 240.50);
+        border-color: midnightblue;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+        border-style: solid;
+    
+        
+}
+
+.contentone {
+        width:40%;
+        height:90%;
+        background-image: url(daniels.jpg);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+}
+
+.contenttwo {
+    width:100%;
+    height:350%;
+    background-color: rgb(9, 10, 70);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.subzero {
+        width:90%;
+        height:45%;
+        background-color:rgb(12, 245, 206)
+    
+}

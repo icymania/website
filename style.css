@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Ruslan+Display&display=swap');
+
+
+
+h1 {
+    font-family: 'Ruslan Display', cursive;
+    color:blue;
+    background-color: rgb(183, 240, 240);
+    text-align:center;
+    border-color: midnightblue;
+      
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+
+
+h2 {
+    font-family: 'Ruslan Display', cursive;
+    color: teal;
+    background-color: lightblue;
+    width: 50%;
+    text-align:center;
+    border-color: midnightblue;
+    border-width: 5px;
+    border-style:solid;
+    margin: 5px;
+    margin-left: 350px;
+}
+
+    
+
+P {
+   color:darkcyan; 
+}
+
+.firstp {
+    color:darkcyan;
+}
+
+
+
+
+#navbar {
+    background-color: lightblue;
+    width: 50%;
+    text-align:center;
+    border-color: midnightblue;
+    border-width: 5px;
+    border-style:solid;
+    margin: 5px;
+    margin-left: 350px;
+    
+    font-family: 'Ruslan Display', cursive;
+}
+
+body {
+    background-image: url(daniels.jpg);
+    background-size: cover;
+}
+
+.content {
+    background-color: lightblue;
+    width: 50%;
+    text-align:center;
+    border-color: midnightblue;
+    border-width: 5px;
+    border-style:solid;
+    margin: 5px;
+    margin-left: 350px;
+
+}
+
+img {
+    max-width: 60%;
+
+
+}
